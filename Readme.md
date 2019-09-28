@@ -1,6 +1,4 @@
-## Network
-
-### Дублирующиеся ресурсы
+## Дублирующиеся ресурсы
 
 https://yastatic.net/pcode/adfox/adfox-adx-stub.js  
 https://yastatic.net/pcode/adfox/adfox-adx-stub.html  
@@ -21,7 +19,7 @@ https://pagead2.googlesyndication.com/pagead/js/r20190924/r20190131/show_ads_imp
 https://googleads.g.doubleclick.net/pagead/html/r20190924/r20190131/zrt_lookup.html  
 ![](http://joxi.net/4Ak7eYQSoJoqyA.jpg)  
 
-### Лишний размер ресурса
+## Лишний размер ресурса
 
 ![](http://joxi.net/brR16RjI7q7vaA.jpg)  
 ![](http://joxi.net/a2XqQkDFwjwG0A.jpg)  
@@ -34,13 +32,13 @@ https://googleads.g.doubleclick.net/pagead/html/r20190924/r20190131/zrt_lookup.h
 Лишний размер из-за того, что ресурсы в несжатом формате
 
 
-### Медленная загрузка
+## Медленная загрузка
 
 http://joxi.net/8AnJVwWTzMzO8A.jpg
 http://joxi.net/KAxv9wXHZ9ZaYm.jpg
 
 
-### Блокирующие загрузку
+## Блокирующие загрузку
 
 Ресурсы передаются через HTTP1.1. Хром может загружать одновременно не больше 6 ресурсов
 http://joxi.net/p27n7x1TKJKw6m.jpg
