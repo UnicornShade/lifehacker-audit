@@ -34,14 +34,14 @@ https://googleads.g.doubleclick.net/pagead/html/r20190924/r20190131/zrt_lookup.h
 
 ## Медленная загрузка
 
-http://joxi.net/8AnJVwWTzMzO8A.jpg
-http://joxi.net/KAxv9wXHZ9ZaYm.jpg
+![](http://joxi.net/8AnJVwWTzMzO8A.jpg)
+![](http://joxi.net/KAxv9wXHZ9ZaYm.jpg)
 
 
 ## Блокирующие загрузку
 
 Ресурсы передаются через HTTP1.1. Хром может загружать одновременно не больше 6 ресурсов
-http://joxi.net/p27n7x1TKJKw6m.jpg
+![](http://joxi.net/p27n7x1TKJKw6m.jpg)
 
 ## Performance
 
@@ -57,10 +57,10 @@ Loading 52 ms
 Scripting 1511 ms  
 Rendering 798 ms  
 Painting 167 ms  
-http://joxi.net/1A53pn1hD8Devm.jpg
+![](http://joxi.net/1A53pn1hD8Devm.jpg)
 
 ## Coverage
 
 Неиспользуемый CSS ≈ 223 кб  
 Неиспользуемый JS ≈ 2046 кб  
-http://joxi.net/v29xl1DTZgZ89m.jpg
+![](http://joxi.net/v29xl1DTZgZ89m.jpg)
