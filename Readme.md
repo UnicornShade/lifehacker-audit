@@ -1,3 +1,5 @@
+# Network
+
 ## Дублирующиеся ресурсы
 
 https://yastatic.net/pcode/adfox/adfox-adx-stub.js  
@@ -43,7 +45,7 @@ https://googleads.g.doubleclick.net/pagead/html/r20190924/r20190131/zrt_lookup.h
 Ресурсы передаются через HTTP1.1. Хром может загружать одновременно не больше 6 ресурсов
 ![](http://joxi.net/p27n7x1TKJKw6m.jpg)
 
-## Performance
+# Performance
 
 First Paint 252.8 ms  
 First Contentful Paint painting 252.8 ms  
@@ -59,7 +61,7 @@ Rendering 798 ms
 Painting 167 ms  
 ![](http://joxi.net/1A53pn1hD8Devm.jpg)
 
-## Coverage
+# Coverage
 
 Неиспользуемый CSS ≈ 223 кб  
 Неиспользуемый JS ≈ 2046 кб  
